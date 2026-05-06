@@ -112,13 +112,28 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lucky17112000&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7f00&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucky17112000&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky17112000&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky17112000&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://streak-stats.demolab.com?user=lucky17112000&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7f00&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucky17112000/lucky17112000/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucky17112000/lucky17112000/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucky17112000/lucky17112000/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
