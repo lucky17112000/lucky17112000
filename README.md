@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Asaduzzaman%20Al%20Amin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=17&descColor=a9b3c1&fontAlign=50&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Alamin%20Mustafa%20Rahim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=17&descColor=a9b3c1&fontAlign=50&descAlign=50" width="100%"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/lucky17112000/lucky17112000/main/assets/photo.png" width="155" height="155"/>
@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> About Me
 
-### ✦ Hi, I'm [@lucky17112000](https://github.com/lucky17112000) — Asaduzzaman Al Amin
+### ✦ Hi, I'm — Alamin Mustafa Rahim
 
 - 🖥️ Crafting high-performance frontends with **React.js · Next.js · TypeScript · Redux**
 - 🗄️ Engineering robust backends using **Node.js · Express.js · MongoDB · PostgreSQL · Prisma**
@@ -112,8 +112,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucky17112000&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky17112000&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucky17112000&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky17112000&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/> -->
 
 </div>
 
@@ -248,7 +248,7 @@ int main() {
       Solve the problem.<br/>
       Write the code.<br/>
       Say Alhamdulillah."</i><br/>
-      <sub>— Asaduzzaman Al Amin</sub>
+      <sub>— Alamin</sub>
     </td>
   </tr>
 </table>
